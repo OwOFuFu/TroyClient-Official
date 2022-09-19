@@ -19,6 +19,7 @@
   </a>
 
 <h3 align="center">Troy Client</h3>
+<h5 align="center"> Remove The Discord Hook Before Build The Client </h5>
 
   <p align="center">
     Best Hacked / Crash Client 2020 Fps Boost (Closed)
